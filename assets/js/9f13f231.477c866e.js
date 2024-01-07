@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfluentui_react_charting_docusaurus=self.webpackChunkfluentui_react_charting_docusaurus||[]).push([[8308],{4493:t=>{t.exports=JSON.parse('{"permalink":"/fluentui-charting-contrib/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
