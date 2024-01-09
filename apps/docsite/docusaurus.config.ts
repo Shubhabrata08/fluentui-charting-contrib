@@ -10,16 +10,16 @@ const config: Config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://microsoft.github.io",
+  url: "https://Shubhabrata08.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/fluentui-charting-contrib/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "microsoft", // Usually your GitHub org/user name.
+  organizationName: "Shubhabrata08", // Usually your GitHub org/user name.
   projectName: "fluentui-charting-contrib", // Usually your repo name.
-  deploymentBranch: "gh-pages",
+  deploymentBranch: "main",
   trailingSlash: false,
   staticDirectories: ['../../docs/assets', 'static'],
 
