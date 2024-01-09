@@ -19,7 +19,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "Shubhabrata08", // Usually your GitHub org/user name.
   projectName: "fluentui-charting-contrib", // Usually your repo name.
-  deploymentBranch: "main",
+  deploymentBranch: "gh-pages",
   trailingSlash: false,
   staticDirectories: ['../../docs/assets', 'static'],
 
