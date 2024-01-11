@@ -1,11 +1,11 @@
 yarn run v1.23.34
 $ /home/runner/work/fluentui-charting-contrib/fluentui-charting-contrib/repo1/node_modules/.bin/jest --coverage --coverageDirectory ./coverage/ubuntu-latest --verbose --coverageReporters=html --coverageReporters=text
-PASS src/utilities/UtilityUnitTests.test.ts (5.363 s)
-PASS UnitTests/AreaChartUT.test.tsx (14.431 s)
-PASS src/components/LineChart/LineChartRTL.test.tsx (20.412 s)
-PASS src/components/VerticalStackedBarChart/VerticalStackedBarChartRTL.test.tsx (21.124 s)
-PASS UnitTests/LineChartUT.test.tsx
+PASS src/utilities/UtilityUnitTests.test.ts (5.484 s)
+PASS UnitTests/AreaChartUT.test.tsx (14.719 s)
+PASS src/components/LineChart/LineChartRTL.test.tsx (20.792 s)
+PASS src/components/VerticalStackedBarChart/VerticalStackedBarChartRTL.test.tsx (21.572 s)
 PASS src/components/GroupedVerticalBarChart/GroupedVerticalBarChartRTL.test.tsx
+PASS UnitTests/LineChartUT.test.tsx
 PASS src/components/VerticalBarChart/VerticalBarChartRTL.test.tsx
 PASS UnitTests/GroupedVerticalBarChartUT.test.tsx
 PASS UnitTests/HorizontalBarChartWithAxisUT.test.tsx
@@ -31,15 +31,15 @@ PASS src/components/StackedBarChart/StackedBarChart.test.tsx
 PASS src/components/VerticalBarChart/VerticalBarChart.test.tsx
 PASS src/components/DonutChart/DonutChart.test.tsx
 PASS src/components/Legends/Legends.test.tsx
-PASS src/components/HorizontalBarChart/HorizontalBarChart.test.tsx
 PASS UnitTests/StackedBarChartUT.test.tsx
+PASS src/components/HorizontalBarChart/HorizontalBarChart.test.tsx
 PASS src/components/DonutChart/DonutChartRTL.test.tsx
 PASS src/components/TreeChart/TreeChart.test.tsx
 PASS src/components/HorizontalBarChartWithAxis/HorizontalBarChartWithAxis.test.tsx
 PASS src/components/PieChart/PieChart.test.tsx
-PASS src/components/Sparkline/Sparkline.test.tsx
-PASS src/utilities/TestUtility.test.tsx
 PASS src/components/SankeyChart/SankeyChartRTL.test.tsx
+PASS src/utilities/TestUtility.test.tsx
+PASS src/components/Sparkline/Sparkline.test.tsx
 PASS src/components/Sparkline/SparklineRTL.test.tsx
 PASS src/components/PieChart/PieChartRTL.test.tsx
 PASS src/components/HeatMapChart/HeatMapChartRTL.test.tsx
@@ -195,4 +195,4 @@ All files                                  |    88.5 |    73.46 |   71.67 |   88
   ChartHoverCard.tsx                       |     100 |      100 |     100 |     100 |                                                                                                                                          
   index.ts                                 |     100 |      100 |     100 |     100 |                                                                                                                                          
 -------------------------------------------|---------|----------|---------|---------|------------------------------------------------------------------------------------------------------------------------------------------
-Done in 49.45s. Peak memory usage 33.75MB.
+Done in 50.17s. Peak memory usage 32.50MB.
