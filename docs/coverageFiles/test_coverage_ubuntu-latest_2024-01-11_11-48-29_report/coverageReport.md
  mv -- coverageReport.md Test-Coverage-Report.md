@@ -1,48 +1,3 @@
-yarn run v1.23.34
-$ /home/runner/work/fluentui-charting-contrib/fluentui-charting-contrib/repo1/node_modules/.bin/jest --coverage --coverageDirectory ./coverage/ubuntu-latest --verbose --coverageReporters=html --coverageReporters=text
-PASS src/utilities/UtilityUnitTests.test.ts (5.484 s)
-PASS UnitTests/AreaChartUT.test.tsx (14.719 s)
-PASS src/components/LineChart/LineChartRTL.test.tsx (20.792 s)
-PASS src/components/VerticalStackedBarChart/VerticalStackedBarChartRTL.test.tsx (21.572 s)
-PASS src/components/GroupedVerticalBarChart/GroupedVerticalBarChartRTL.test.tsx
-PASS UnitTests/LineChartUT.test.tsx
-PASS src/components/VerticalBarChart/VerticalBarChartRTL.test.tsx
-PASS UnitTests/GroupedVerticalBarChartUT.test.tsx
-PASS UnitTests/HorizontalBarChartWithAxisUT.test.tsx
-PASS src/components/HorizontalBarChartWithAxis/HorizontalBarChartWithAxisRTL.test.tsx
-PASS UnitTests/VerticalStackedBarChartUT.test.tsx
-PASS UnitTests/SankeyChartUT.test.tsx
-PASS src/components/AreaChart/AreaChart.test.tsx
-PASS src/components/StackedBarChart/StackedBarChartRTL.test.tsx
-PASS src/components/StackedBarChart/MultiStackedBarChartRTL.test.tsx
-PASS src/components/GaugeChart/GaugeChart.test.tsx
-PASS src/components/GroupedVerticalBarChart/GroupedVerticalBarChart.test.tsx
-PASS src/components/LineChart/LineChart.test.tsx
-PASS src/components/HeatMapChart/HeatMapChart.test.tsx
-PASS src/components/HorizontalBarChart/HorizontalBarChartRTL.test.tsx
-PASS src/components/AreaChart/AreaChartRTL.test.tsx
-PASS UnitTests/HorizontalBarChartUT.test.tsx
-PASS src/components/SankeyChart/SankeyChart.test.tsx
-PASS src/components/StackedBarChart/MultiStackedBarChart.test.tsx
-PASS UnitTests/VerticalBarChartUT.test.tsx
-PASS UnitTests/MultiStackedBarChartUT.test.tsx
-PASS src/components/VerticalStackedBarChart/VerticalStackedBarChart.test.tsx
-PASS src/components/StackedBarChart/StackedBarChart.test.tsx
-PASS src/components/VerticalBarChart/VerticalBarChart.test.tsx
-PASS src/components/DonutChart/DonutChart.test.tsx
-PASS src/components/Legends/Legends.test.tsx
-PASS UnitTests/StackedBarChartUT.test.tsx
-PASS src/components/HorizontalBarChart/HorizontalBarChart.test.tsx
-PASS src/components/DonutChart/DonutChartRTL.test.tsx
-PASS src/components/TreeChart/TreeChart.test.tsx
-PASS src/components/HorizontalBarChartWithAxis/HorizontalBarChartWithAxis.test.tsx
-PASS src/components/PieChart/PieChart.test.tsx
-PASS src/components/SankeyChart/SankeyChartRTL.test.tsx
-PASS src/utilities/TestUtility.test.tsx
-PASS src/components/Sparkline/Sparkline.test.tsx
-PASS src/components/Sparkline/SparklineRTL.test.tsx
-PASS src/components/PieChart/PieChartRTL.test.tsx
-PASS src/components/HeatMapChart/HeatMapChartRTL.test.tsx
 -------------------------------------------|---------|----------|---------|---------|------------------------------------------------------------------------------------------------------------------------------------------
 File                                       | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s                                                                                                                        
 -------------------------------------------|---------|----------|---------|---------|------------------------------------------------------------------------------------------------------------------------------------------
@@ -195,4 +150,4 @@ All files                                  |    88.5 |    73.46 |   71.67 |   88
   ChartHoverCard.tsx                       |     100 |      100 |     100 |     100 |                                                                                                                                          
   index.ts                                 |     100 |      100 |     100 |     100 |                                                                                                                                          
 -------------------------------------------|---------|----------|---------|---------|------------------------------------------------------------------------------------------------------------------------------------------
-Done in 50.17s. Peak memory usage 32.50MB.
+Done in 50.04s. Peak memory usage 33.50MB.
