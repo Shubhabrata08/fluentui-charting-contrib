@@ -3,7 +3,8 @@ name: Split master CHANGELOG.md to each minor version
 on:
   schedule:
     - cron: "0 0 * * 1"
-
+  workflow_dispatch:
+  
 permissions:
   contents: write
   pull-requests: write
