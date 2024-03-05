@@ -2,8 +2,11 @@
 
 ## Date Axis
 import {VerticalBarChartDateAxisExample} from "../../apps/docsite/src/components/ChartingExamples/VerticalBarChart/VerticalBarChart.DateAxis.Example.tsx"
+import BrowserOnly from '@docusaurus/BrowserOnly';
 
+<BrowserOnly>
 <VerticalBarChartDateAxisExample/>
+</BrowserOnly>
 
 <iframe height="300" style={{width: "100%", height:"500px"}} scrolling="no" title="Custom style for vertical bar chart " src="https://codepen.io/atisjaiMsft/embed/OJrdaEK?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/atisjaiMsft/pen/OJrdaEK">
