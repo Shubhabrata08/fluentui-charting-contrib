@@ -49,6 +49,14 @@ const config: Config = {
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
         },
+        blog: {
+          blogTitle: "Docusaurus blog!",
+          blogDescription: "A Docusaurus powered blog!",
+          postsPerPage: "ALL",
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
+          path: '../../blog'
+        },
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -82,6 +90,7 @@ const config: Config = {
           position: "left",
           label: "Docs",
         },
+        {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: "https://github.com/microsoft/fluentui-charting-contrib",
           label: "GitHub",
