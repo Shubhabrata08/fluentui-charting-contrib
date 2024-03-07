@@ -18,6 +18,8 @@ Fluent UI React charts is built using D3 (Data Driven Documents) and other fluen
 ### Good data visualization transforms raw data into a visual form that is interpretable, delightful, and triggers insight.
  
 As an industry leader with a comprehensive portfolio of data-driven products, Microsoft is uniquely positioned to distill the best standards, research, tools, and techniques into a data visualization toolkit that is truly One Microsoft. The goal of our new charting library is to produce a consistent and inclusive experience for customers across our platforms.
+<img src={require("./images/newsletter-nov-2023/img_docsite.png").default} />
+
  
 ### Charts now available in Fluent docsite
 Fluent UI React charts is built using D3 (Data Driven Documents) and other fluent UI controls. Available in both V7 and V8, these charts are ready to be used in a production environment. Come check them out on our doc site today!
