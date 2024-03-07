@@ -61,32 +61,47 @@ We’re actively building out the library based on the needs of the teams consum
 ![Fluent Charting controls in M365 copilot](./images/newsletter-nov-2023/img_m365_copilot.png)
 ### Fluent Charting controls in M365 copilot
 As part of this year’s Hackathon, we enabled charting controls in the admin copilot centro control. By allowing users to naturally interact with copilot, we can intelligently determine when a visualization would help them better understand the data. View the project
-Coming soon
 
 </td>
 </tr>
 </table>
 
- 
-
-
-## V9 data viz updates
+## Coming soon
+![Coming soon](./images/newsletter-nov-2023/img_coming_soon.png)
+### V9 data viz updates
 We’re hard at work on the next version of Fluent data viz V9! Upcoming features will include a new gradient color palette, variable rounded corners and much more. We would love to hear what do you think! Complete this short survey and share your thoughts. Take the survey.
 
 ## Community news 
-What our partners are saying 
+![Community news](./images/newsletter-nov-2023/img_community_news.png)
+### What our partners are saying 
 The library is currently in use by teams across Microsoft with primary consumers being MAC (Microsoft admin center), Azure core trusted platform, Viva learning and Viva Amplify, Defender and many more.
  
-## Power Automate Team
+#### Power Automate Team
 “We are happy with the result, and we are still developing new tabs for adding more data and more charts. The collaboration we have with your team is excellent and the work you are doing to unblock us is amazing!“
  
-## Contribute to the library
+### Contribute to the library
 Are you interested to contribute to our Open Source initiative? Check this out.
-Resources
- 
-## Toolkit and guidance
+
+## Resources
+
+<table>
+<tr style={{border:"0"}}>
+<td style={{border:"0", verticalAlign:"top"}}>
+
+### Toolkit and guidance
+![Data Viz Kit](./images/newsletter-nov-2023/img_toolkit.png)
+
 We’ve created a UI kit along with guidance to help you understand which chart to use for your use case and all your component needs. Powered by an extensive v-team and Fluent partnership.
+
+</td>
+<td style={{border:"0", verticalAlign:"top"}}>
  
-## Office hours
+### Office hours
+![Office hours](./images/newsletter-nov-2023/img_office_hours.png)
+
 We are here to help. If you have any questions, concerns or just want to chat about data viz, join us for our weekly office hours. Sign up the sheet and we will send you more information.
 We’re always looking for feedback, chart requests, new v-team members, and the chance to help you onboard to the library. We look forward to hearing from you!
+
+</td>
+</tr>
+</table>
