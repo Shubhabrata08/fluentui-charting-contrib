@@ -7,10 +7,6 @@ authors:
     title: Co-creator of Docusaurus 1
     url: https://github.com/JoelMarcey
     image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
 tags: [fluent]
 hide_table_of_contents: false
 ---
@@ -19,11 +15,11 @@ Fluent UI React charts is built using D3 (Data Driven Documents) and other fluen
 
 <!-- truncate -->
 
-## Good data visualization transforms raw data into a visual form that is interpretable, delightful, and triggers insight.
+### Good data visualization transforms raw data into a visual form that is interpretable, delightful, and triggers insight.
  
 As an industry leader with a comprehensive portfolio of data-driven products, Microsoft is uniquely positioned to distill the best standards, research, tools, and techniques into a data visualization toolkit that is truly One Microsoft. The goal of our new charting library is to produce a consistent and inclusive experience for customers across our platforms.
  
-## Charts now available in Fluent docsite
+### Charts now available in Fluent docsite
 Fluent UI React charts is built using D3 (Data Driven Documents) and other fluent UI controls. Available in both V7 and V8, these charts are ready to be used in a production environment. Come check them out on our doc site today!
 
 <table>
@@ -51,14 +47,16 @@ With design and dev working hand in hand, our data viz library has considered ac
 <tr style={{border:"0"}}>
 <td style={{border:"0", verticalAlign:"top"}}>
 
-![New Chart available](./images/newsletter-nov-2023/img_new_chart.png)
+<img src={require("./images/newsletter-nov-2023/img_new_chart.png").default} />
+
 ### New chart available
 We’re actively building out the library based on the needs of the teams consuming it. The latest addition to our library is the gauge chart, which came from a partner request.
 
 </td>
 <td style={{border:"0", verticalAlign:"top"}}>
 
-![Fluent Charting controls in M365 copilot](./images/newsletter-nov-2023/img_m365_copilot.png)
+<img src={require("./images/newsletter-nov-2023/img_m365_copilot.png").default} />
+
 ### Fluent Charting controls in M365 copilot
 As part of this year’s Hackathon, we enabled charting controls in the admin copilot centro control. By allowing users to naturally interact with copilot, we can intelligently determine when a visualization would help them better understand the data. View the project
 
@@ -89,19 +87,25 @@ Are you interested to contribute to our Open Source initiative? Check this out.
 <td style={{border:"0", verticalAlign:"top"}}>
 
 ### Toolkit and guidance
-![Data Viz Kit](./images/newsletter-nov-2023/img_toolkit.png)
-
-We’ve created a UI kit along with guidance to help you understand which chart to use for your use case and all your component needs. Powered by an extensive v-team and Fluent partnership.
+<img src={require("./images/newsletter-nov-2023/img_toolkit.png").default} />
+We’ve created a [UI kit along with guidance](https://www.figma.com/files/588096576863690753/project/78812788/Fluent-data-visualization?fuid=633793533659709701) to help you understand which chart to use for your use case and all your component needs. Powered by an extensive v-team and Fluent partnership.
 
 </td>
 <td style={{border:"0", verticalAlign:"top"}}>
  
 ### Office hours
-![Office hours](./images/newsletter-nov-2023/img_office_hours.png)
+<img src={require("./images/newsletter-nov-2023/img_office_hours.png").default} />
 
-We are here to help. If you have any questions, concerns or just want to chat about data viz, join us for our weekly office hours. Sign up the sheet and we will send you more information.
-We’re always looking for feedback, chart requests, new v-team members, and the chance to help you onboard to the library. We look forward to hearing from you!
+We are here to help. If you have any questions, concerns or just want to chat about data viz, join us for our [weekly office hours](https://aka.ms/datavisofficehours). Sign up the sheet and we will send you more information.
 
 </td>
 </tr>
 </table>
+
+We’re always looking for feedback, chart requests, new v-team members, and the chance to help you onboard to the library. We look forward to hearing from you!
+
+<a href="https://teams.microsoft.com/l/channel/19%3a9dde7cd5c70e48bc9cd69f827a4ca935%40thread.skype/Data%2520Viz?groupId=ffe264f2-14d0-48b5-9384-64f808b81294&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47" target="_blank" title> 
+<img alt="Contact us" src={require("./images/newsletter-nov-2023/img_contact_us.png").default} style={{border:"0", display:"block", outline:"none", textDecoration:"none", height:"auto", width:"100%", fontSize:"13px"}} title width="536" height="auto"/>
+</a>
+
+
