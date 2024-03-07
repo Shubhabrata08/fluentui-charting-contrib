@@ -11,7 +11,6 @@ tags: [fluent]
 hide_table_of_contents: false
 ---
 ![Cover](./images/newsletter-nov-2023/img_header.png)
-Fluent UI React charts is built using D3 (Data Driven Documents) and other fluent UI controls. Available in both V7 and V8, these charts are ready to be used in a production environment. Come check them out on our doc site today!
 
 <!-- truncate -->
 
