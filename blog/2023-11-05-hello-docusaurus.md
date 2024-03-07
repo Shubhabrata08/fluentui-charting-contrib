@@ -65,7 +65,7 @@ As part of this year’s Hackathon, we enabled charting controls in the admin co
 </table>
 
 ## Coming soon
-![Coming soon](./images/newsletter-nov-2023/img_coming_soon.png)
+<img width="100%" src={require("./images/newsletter-nov-2023/img_coming_soon.png").default} />
 ### V9 data viz updates
 We’re hard at work on the next version of Fluent data viz V9! Upcoming features will include a new gradient color palette, variable rounded corners and much more. We would love to hear what do you think! Complete this short survey and share your thoughts. Take the survey.
 
