@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocsite=self.webpackChunkdocsite||[]).push([[156],{6980:e=>{e.exports=JSON.parse('[{"label":"fluent","permalink":"/fluentui-charting-contrib/blog/tags/fluent","count":1}]')}}]);
