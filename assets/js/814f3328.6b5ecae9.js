@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocsite=self.webpackChunkdocsite||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"All posts","items":[{"title":"Charts now available in Fluent docsite","permalink":"/fluentui-charting-contrib/blog/welcome-newsletter","unlisted":false}]}')}}]);
